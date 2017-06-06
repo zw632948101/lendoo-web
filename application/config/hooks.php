@@ -2,6 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 require_once __DIR__ . '/../third_party/wxpay/WxPay.Api.php';
+require_once __DIR__ . '/../helpers/cloud.php';
 
 use \LeanCloud\Engine\LeanEngine;
 use \LeanCloud\Engine\Cloud;

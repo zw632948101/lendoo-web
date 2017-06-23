@@ -16,7 +16,7 @@ jQuery
 
 fex-webuploader
 
-vue
+element-ui/vue
 
 **截图**
 

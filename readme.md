@@ -1,15 +1,22 @@
 ### 演示地址
 
-[http://lendoo.leanapp.cn/manager/login](http://lendoo.leanapp.cn/manager/login)
+[http://laeser.leanapp.cn/manager/login](http://lendoo.leanapp.cn/manager/login)
 
 ### 技术栈
 
 Codeigniter
+
 LeanCloud
+
 Bootstrap
+
 Admin-LTE
+
 jQuery
+
 fex-webuploader
+
+vue
 
 **截图**
 

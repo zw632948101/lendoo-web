@@ -54,7 +54,7 @@
 	</div>
 	<hr class="line"/>
 	<footer>
-		<div class="text-center">&copy;2014-2017 灵犀网络 版权所有</div>
+		<div class="text-center">&copy;2014-2017 <a href="http://blog.it577.net/" target="_blank">灵犀网络</a> 版权所有</div>
 	</footer>
 	<script>
 		$(function () { 

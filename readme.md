@@ -18,7 +18,7 @@
 
 - 如果报密码错误，在_User表中，找到lendoo这个用户，将password明文录入，即可改成自己想要的密码
 
-- 支付回调，改成自己申请到的二级域名，Line27处，$input->SetNotify_url("https://laeser.leanapp.cn/WXPay/notify");
+- 支付回调，改成自己申请到的二级域名，Line27处，`$input->SetNotify_url("https://laeser.leanapp.cn/WXPay/notify");`
 
 
 ### 技术栈

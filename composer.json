@@ -13,7 +13,7 @@
 	"require": {
 		"php": "5.6.*",
 		"leancloud/leancloud-sdk": "^0.5.1",
-		"almasaeed2010/adminlte": "3.0.*",
+		"almasaeed2010/adminlte": "2.3.*",
         "codeigniter/framework": "^3.1"
 	},
 	"suggest": {
